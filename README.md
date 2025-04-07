@@ -1,1 +1,2 @@
-# CSE110-GitHub-Pages
+# CSE110-GitHub-Pages 
+I love C
